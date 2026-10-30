@@ -1,0 +1,7 @@
+Previously Resolved Support Tickets
+
+Ticket #10251 - VPN: User reported VPN-403. Not in VPN access group; access
+requested and approved, then connected.
+Ticket #10288 - Software: User installed an unapproved Python. Replaced with
+"Python 3.10 (Approved)" from the Software Center.
+Ticket #10312 - VPN: VPN-500 persisting over an hour. Escalated to Level 2.
